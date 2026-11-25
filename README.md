@@ -3,7 +3,8 @@
 **Academic Live Project / Minor Project-I**  
 **Institution:** Dev Bhoomi Uttarakhand University (DBUU), Dehradun  
 **School & Department:** School of Engineering & Computing (SoEC), Department of Computer Science & Engineering  
-**Students:** Tanishq Singh (24BTCSEAI0159), Akash Kumar Nishad (24BTCSEAI0147), Akanksha Rai (24BTCSEAI0143)  
+**Students:**
+ Tanishq Singh (24BTCSEAI0159), Akash Kumar Nishad (24BTCSEAI0147), Akanksha Rai (24BTCSEAI0143)  
 **Supervisor:** Mr. Anubhav Singh Bisht (Assistant Professor, CSE)
 
 ---
